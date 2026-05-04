@@ -5,3 +5,7 @@ __pycache__/
 venv/
 .idea/
 .vscode/
+
+# Internal lab bookkeeping — operational handoffs and briefings stay local-only
+HANDOFF*.md
+BRIEFING*.md
